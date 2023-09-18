@@ -35,13 +35,17 @@ Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logic
 
 ## Gallery
 
-![Ball Sort Game Banner](images/image2.png)
-![Ball Sort Game Banner](images/image3.png)
+![Ball Sort Game Screenshot 1](images/image2.png)
+![Ball Sort Game Screenshot 2](images/image3.png)
+
+## Video Showcase
+
+<a href="https://www.youtube.com/watch?v=drg9xEKpbow" target="_blank"><img src="https://img.youtube.com/vi/drg9xEKpbow/0.jpg" 
+alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>
 
 ## Links
 
 - [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
-
 
 ---
 
