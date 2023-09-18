@@ -35,7 +35,8 @@ Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logic
 
 ## Gallery
 
-<!-- Add links or embed images showcasing your game here -->
+![Ball Sort Game Banner](images/image2.png)
+![Ball Sort Game Banner](images/image3.png)
 
 ## Links
 
