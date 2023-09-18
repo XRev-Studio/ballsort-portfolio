@@ -40,7 +40,7 @@ Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logic
 
 ## Links
 
-- [Playstore]([link_to_google_play_store_page_of_game](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
+- [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
 
 
 ---
