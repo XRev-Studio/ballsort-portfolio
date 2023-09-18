@@ -41,8 +41,7 @@ Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logic
 ## Links
 
 - [Playstore](link_to_google_play_store_page_of_game)
-- [Game Link](link_to_game_link)
-- [Our Website](link_to_website)
+
 
 ---
 
